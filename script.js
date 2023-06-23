@@ -34,3 +34,4 @@ const buttonAnimation = (key) => {
         active.classList.remove('pressed');
     }, 100)
 }
+
