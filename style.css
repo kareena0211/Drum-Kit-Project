@@ -1,6 +1,9 @@
 body {
     text-align: center;
-    background-color: #a06060;
+    background-image: url(./images/bg.jpeg);
+    background-size: cover;
+    
+    
 }
 
 h1 {
